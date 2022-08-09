@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/puzzle-game/static/css/main.02ccb7b9.css",
-    "main.js": "/puzzle-game/static/js/main.a5f886b3.js",
-    "index.html": "/puzzle-game/index.html",
-    "main.02ccb7b9.css.map": "/puzzle-game/static/css/main.02ccb7b9.css.map",
-    "main.a5f886b3.js.map": "/puzzle-game/static/js/main.a5f886b3.js.map"
+    "main.css": "/static/css/main.02ccb7b9.css",
+    "main.js": "/static/js/main.a5f886b3.js",
+    "index.html": "/index.html",
+    "main.02ccb7b9.css.map": "/static/css/main.02ccb7b9.css.map",
+    "main.a5f886b3.js.map": "/static/js/main.a5f886b3.js.map"
   },
   "entrypoints": [
     "static/css/main.02ccb7b9.css",
